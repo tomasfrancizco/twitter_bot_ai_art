@@ -39,6 +39,4 @@ const retweet = function (offset) {
   })
 }
 
-retweet(0);
-
-
+retweet(0)
